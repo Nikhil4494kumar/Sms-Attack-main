@@ -70,7 +70,7 @@ Sms-Attack is a python3 based script which is officially made for linux based di
 * `apk add lolcat`
 * `git clone [https://github.com/Nikhil4494kumar/Sms-Attack-main.git]`
 * `cd Sms-Attack-main`
-* `python3 nikhil.py
+* `python3 nikhil.py`
 
 
 
