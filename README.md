@@ -65,20 +65,20 @@ Sms-Attack is a python3 based script which is officially made for linux based di
 * `pkg install python -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/T-Dynamos/BaapG-Attack`
+* `git clone [https://github.com/Nikhil4494kumar/Sms-Attack-main.git]`
 * `cd Sms-Attack-main`
 * `ls`
 * `python3 nikhil.py`
 
 ## INSTALLATION [ISH] :
 
-* "apk add git -y"
-* "apk add python3'
-* "apk add python -y'
-* "apk add lolcat'
-* "git clone https://github.com/T-Dynamos/BaapG-Attack`
-* "cd Sms-Attack-main`
-* "python3 nikhil.py'
+* 'apk add git -y"
+* 'apk add python3'
+* 'apk add python -y'
+* 'apk add lolcat'
+* 'git clone [https://github.com/Nikhil4494kumar/Sms-Attack-main.git]'
+* 'cd Sms-Attack-main`
+* 'python3 nikhil.py'
 
 
 ## SCREEN SHOTS [Termux]
