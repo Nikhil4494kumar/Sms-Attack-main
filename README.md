@@ -24,14 +24,6 @@
  
 
 
-<p align="center">
-<a href="https://github.com/T-Dynamos"><img title="Language" src="https://img.shields.io/badge/Made%20with-python3-1f425f.svg?v=103"></a>
-<a href="https://github.com/T-Dynamos"><img title="Followers" src="https://img.shields.io/github/followers/T-Dynamos?color=blue&style=flat-square"></a>
-<a href="https://github.com/T-Dynamos"><img title="Stars" src="https://img.shields.io/github/stars/T-Dynamos/BaapG-Attack?color=red&style=flat-square"></a>
-<a href="https://github.com/T-Dynamos"><img title="Forks" src="https://img.shields.io/github/forks/T-Dynamos/BaapG-Attack?color=red&style=flat-square"></a>
-<a href="https://github.com/T-Dynamos"><img title="Watching" src="https://img.shields.io/github/watchers/T-Dynamos/BaapG-Attack?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/T-Dynamos"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p>
 
 ## ABOUT TOOL :
 
@@ -72,22 +64,15 @@ Sms-Attack is a python3 based script which is officially made for linux based di
 
 ## INSTALLATION [ISH] :
 
-* 'apk add git -y"
-* 'apk add python3'
-* 'apk add python -y'
-* 'apk add lolcat'
-* 'git clone [https://github.com/Nikhil4494kumar/Sms-Attack-main.git]'
-* 'cd Sms-Attack-main`
-* 'python3 nikhil.py'
+* `apk add git -y`
+* `apk add python3`
+* `apk add python -y`
+* `apk add lolcat`
+* `git clone [https://github.com/Nikhil4494kumar/Sms-Attack-main.git]`
+* `cd Sms-Attack-main`
+* `python3 nikhil.py
 
 
-## SCREEN SHOTS [Termux]
-
-<br>
-<p align="center">
-<img width="50%" src="https://github.com/T-Dynamos/T-Dynamos/raw/main/bin/Screenshot_2021-10-01-13-03-59-944_com.termux.jpg"/>
-<img width="45%" src="https://github.com/T-Dynamos/T-Dynamos/raw/main/bin/Screenshot_2021-10-01-13-19-08-100_com.termux.jpg"/>
-</p>
 
 
 ## WARNING : 
