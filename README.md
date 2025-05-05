@@ -82,4 +82,4 @@ This tool is only for educational purpose. If you use this tool for other purpos
 
 If You really like my work you should consider donating to me to made me buy [Raspberry Pi 400](https://www.electronicscomp.com/raspberry-pi-400-personal-keyboard-computer-kit)
 
-Google pay : 6005291865
+Upi : nikhilkumar192836@oksbi
